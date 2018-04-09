@@ -1,0 +1,6 @@
+/blog_env
+requirements.txt
+# Intellij
+.idea/
+
+db.sqlite3
